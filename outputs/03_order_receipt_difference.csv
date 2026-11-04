@@ -1,0 +1,3 @@
+﻿po_id,supplier_id,part_code,order_qty,received_qty,qty_difference
+PO1007,SUP002,MCU-01,900,850,50
+PO1009,SUP004,CON-03,1800,1750,50

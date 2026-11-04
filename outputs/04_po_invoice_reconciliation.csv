@@ -1,0 +1,2 @@
+﻿po_id,supplier_id,order_amount,invoice_amount,difference
+PO1003,SUP003,14000.0,13440.0,560.0
